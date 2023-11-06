@@ -6,4 +6,4 @@ This is a circular progress bar
 3. javascript
 
 # Follow me on
-Twitter - (@fred_chizim)[https://www.twitter.com/fred_chizim "Fred"]
+Twitter - [@fred_chizim](https://www.twitter.com/fred_chizim "Fred")
